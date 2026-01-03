@@ -40,7 +40,7 @@ const config = {
   RCD_IMAGE_PATH: 'https://files.catbox.moe/fnuywi.jpg',
   NEWSLETTER_JID: '120363421675697127@newsletter',
   OTP_EXPIRY: 300000,
-  OWNER_NUMBER: process.env.OWNER_NUMBER || '94770051298',
+  OWNER_NUMBER: process.env.OWNER_NUMBER || '94776803526',
   CHANNEL_LINK: 'https://whatsapp.com/channel/0029Vb6FwIK89inhtCZOlp12',
   BOT_NAME: 'QUEEN ASHA MINI BOT',
   BOT_VERSION: '1.0.0V',
